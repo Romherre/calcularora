@@ -4,7 +4,7 @@ Esta es una calculadora simple creada como proyecto de práctica. Podes usar est
 
 ## Demo
 
-Para probar la calculadora en acción aquí: [Calculadora en GitHub Pages](https://romherre.github.io/calculadora/)
+Para probar la calculadora en acción aquí: https://romherre.github.io/calcularora/
 
 ## Características
 
